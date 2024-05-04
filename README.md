@@ -1,0 +1,1 @@
+A simple Password Manager for Saving, Editing and Deleting different Passwords for various sites.
